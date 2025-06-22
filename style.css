@@ -12,8 +12,8 @@ body {
   font-family: "Karia", serif;
 }
 .custom-thumbnail {
-  border: 3px solid #fadf8e !important; /* Warna border kuning Bootstrap */
-  box-shadow: 0 0 15px #fadf8e !important; /* Shadow default */
+  border: 5px solid #b19c5e !important; /* Warna border kuning Bootstrap */
+  box-shadow: 0 0 20px #ffffff !important; /* Shadow default */
 }
 
 .hero-box .box p {
